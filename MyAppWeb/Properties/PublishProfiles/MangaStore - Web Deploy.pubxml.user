@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAgk2GYhentkaHaY5v+ImBwAAAAAACAAAAAAAQZgAAAAEAACAAAACsE5yqlFyWjSWDxhd76qGe4Ys8XI/z8pxKhcBhfO7oSwAAAAAOgAAAAAIAACAAAACNchubXht74W9UhrQ3JnblEWwRmWltNJngFIeCgT0Ma4AAAACPAHiz1yKTg+HJZy+fL/MHhgnVCQsFfxdjtHdnuaBC9bsuwjK73raCRaT0ndOmBr/kWILl1yS3axkD1PEIPRxHgbL+Qeu8LW9xB7XojHJbS8AFCVswFgfyGvabYU/Oz7MszLAf7frqkja94WiYZTqJXdpAgOcKoR99K3CFRv/9lUAAAABHGDDgM870FojU5pAcRl1tNdQo8/caJvlVwEiG5M60FO9EL0yESA+7nZnDx8B1sI3EoQlqAACiW4GQ+rpe79aA</EncryptedPassword>
+    <History>True|2023-02-06T00:43:18.8194085Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="ApplicationDbContextConnection">
+      <Value>Server=tcp:mangastore.database.windows.net,1433%3bInitial Catalog=MangaStore%3bPersist Security Info=False%3bUser ID=admin-sql%3bPassword=ServerAdm%40123%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,12 @@
+C:\Users\User\Documents\UdemyLearning\MyApp\BulkyBook.Utility\bin\Release\net6.0\MyApp.Utility.deps.json
+C:\Users\User\Documents\UdemyLearning\MyApp\BulkyBook.Utility\bin\Release\net6.0\MyApp.Utility.dll
+C:\Users\User\Documents\UdemyLearning\MyApp\BulkyBook.Utility\bin\Release\net6.0\MyApp.Utility.pdb
+C:\Users\User\Documents\UdemyLearning\MyApp\BulkyBook.Utility\obj\Release\net6.0\MyApp.Utility.csproj.AssemblyReference.cache
+C:\Users\User\Documents\UdemyLearning\MyApp\BulkyBook.Utility\obj\Release\net6.0\MyApp.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\UdemyLearning\MyApp\BulkyBook.Utility\obj\Release\net6.0\MyApp.Utility.AssemblyInfoInputs.cache
+C:\Users\User\Documents\UdemyLearning\MyApp\BulkyBook.Utility\obj\Release\net6.0\MyApp.Utility.AssemblyInfo.cs
+C:\Users\User\Documents\UdemyLearning\MyApp\BulkyBook.Utility\obj\Release\net6.0\MyApp.Utility.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\UdemyLearning\MyApp\BulkyBook.Utility\obj\Release\net6.0\MyApp.Utility.dll
+C:\Users\User\Documents\UdemyLearning\MyApp\BulkyBook.Utility\obj\Release\net6.0\refint\MyApp.Utility.dll
+C:\Users\User\Documents\UdemyLearning\MyApp\BulkyBook.Utility\obj\Release\net6.0\MyApp.Utility.pdb
+C:\Users\User\Documents\UdemyLearning\MyApp\BulkyBook.Utility\obj\Release\net6.0\ref\MyApp.Utility.dll
